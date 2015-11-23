@@ -1,0 +1,1 @@
+	INSERT INTO "PUBLIC"."USERS" ( "ID", "FIRSTNAME", "MIDDLENAME", "LASTNAME", "AGE", "GENDER", "PHONE", "ZIP" ) VALUES ( '9af6ac65-aa6c-4411-8b91-1e2fead1d9ba', 'Venkatesh','rao', 'Poosarla', 28, 'M', '1696781585','75255')
